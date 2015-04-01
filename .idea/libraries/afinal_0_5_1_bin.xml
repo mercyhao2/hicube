@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="afinal_0.5.1_bin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/afinal_0.5.1_bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-httpclient-3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

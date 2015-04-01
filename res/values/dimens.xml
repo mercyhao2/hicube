@@ -1,0 +1,47 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Public -->
+    <dimen name="public_marginleft_1">3dp</dimen>
+    <dimen name="public_marginleft">6dp</dimen>
+    <dimen name="public_marginleft_2">12dp</dimen>
+
+    <!-- Title -->
+    <dimen name="title_height">50dp</dimen>
+    <dimen name="title_img_width_s">12sp</dimen>
+    <dimen name="title_img_width">45dp</dimen>
+    <dimen name="title_img_padding">13dp</dimen>
+    <dimen name="title_ts_title">22sp</dimen>
+    <dimen name="title_ts_city">18sp</dimen>
+    
+    <!-- Tab -->
+    <dimen name="tab_ts_name">18sp</dimen>
+    <dimen name="tab_height_item">45dp</dimen>
+
+    <!-- FraMain -->
+    <dimen name="framain_img_advheight">180dp</dimen>
+    <dimen name="framain_ll_cateheight">60dp</dimen>
+    <dimen name="framain_img_cateiconheight">45dp</dimen>
+    <dimen name="framain_ts_catename">18sp</dimen>
+    <dimen name="framain_ts_catedescrible">12sp</dimen>
+    <dimen name="framain_ll_catepadding">18dp</dimen>
+
+    <!-- ItemListStore -->
+    <dimen name="itemliststore_img_show_height">72dp</dimen>
+    <dimen name="itemlistsotre_img_supporticon_height">12dp</dimen>
+    <dimen name="itemliststore_txt_name">18sp</dimen>
+    <dimen name="itemliststore_txt_location">14sp</dimen>
+    <dimen name="itemliststore_img_supporticon_marginleft">3dp</dimen>
+    <dimen name="itemliststore_txt_location_width">80dp</dimen>
+    
+    <!-- ItemListDish -->
+    <dimen name="itemlistdish_btn_taste_height">40dp</dimen>
+    <dimen name="itemlistdish_btn_taste_ts">14sp</dimen>
+    
+    <!-- Interval -->
+    <dimen name="interval_line_height">0.3dp</dimen>
+
+</resources>
